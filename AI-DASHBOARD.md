@@ -2,8 +2,8 @@
 
 <div align="center">
 
-**deriv-com/derivatives-bot**
-📅 Last updated: 2025-08-20 04:09:53 UTC • 🔄 Tracking merged PRs to main/master
+**ashkan-deriv/derivatives-bot**
+📅 Last updated: 2025-08-24 06:33:34 UTC • 🔄 Tracking merged PRs to main/master
 
 </div>
 
